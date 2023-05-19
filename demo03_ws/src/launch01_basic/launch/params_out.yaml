@@ -1,0 +1,25 @@
+bg_B: 255
+bg_G: 50
+bg_R: 100
+my_turtle:
+  background_b: 255
+  background_g: 86
+  background_r: 69
+  bg_B: 255
+  bg_G: 50
+  bg_R: 100
+  param_B: 3.14
+param_A: 100
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_shuai_virtual_machine__38011: http://shuai-virtual-machine:38011/
+    host_shuai_virtual_machine__42143: http://shuai-virtual-machine:42143/
+    host_shuai_virtual_machine__43705: http://shuai-virtual-machine:43705/
+    host_shuai_virtual_machine__46581: http://shuai-virtual-machine:46581/
+rosversion: '1.16.0
+
+  '
+run_id: 4036375c-ed87-11ed-ab01-9ba80762b22a
