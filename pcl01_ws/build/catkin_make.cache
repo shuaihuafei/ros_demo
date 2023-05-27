@@ -1,2 +1,0 @@
-demo_pcl01:test_hello
--DCATKIN_DEVEL_PREFIX=/home/shuai/pcl01_ws/devel -DCMAKE_INSTALL_PREFIX=/home/shuai/pcl01_ws/install -G Unix Makefiles

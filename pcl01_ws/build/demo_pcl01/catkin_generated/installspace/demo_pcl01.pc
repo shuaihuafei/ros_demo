@@ -1,8 +1,0 @@
-prefix=/home/shuai/pcl01_ws/install
-
-Name: demo_pcl01
-Description: Description of demo_pcl01
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
